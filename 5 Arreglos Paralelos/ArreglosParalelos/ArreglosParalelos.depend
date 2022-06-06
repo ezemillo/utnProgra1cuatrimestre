@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653854601 source:d:\utn\1cuatrimestre\programacion\5 arreglos paralelos\arreglosparalelos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

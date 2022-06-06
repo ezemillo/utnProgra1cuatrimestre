@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654096061 source:d:\utn\1cuatrimestre\programacion\6 estructuras\estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

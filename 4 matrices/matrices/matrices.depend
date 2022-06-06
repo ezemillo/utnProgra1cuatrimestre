@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1653790002 source:d:\utn\1cuatrimestre\programacion\4 matrices\matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
